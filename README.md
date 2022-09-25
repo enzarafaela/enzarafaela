@@ -6,10 +6,26 @@ class SobreMim extends Desenvolvedor {
   trabalho  = 'Squad Leader Atual Sistemas | Professora Faculdade Pitágoras';
   local = 'Guarapari - ES';
   graduacao = 'Análise e Desenvolvimento de Sistemas & Sistemas de Informação - UNESC';
-  posGraduacao = 'Mestrado em Computação - UFES | Especialização em Gestão de Projetos - Estácio';
-  linguagens  = ['Desde o C até C#, Java, DataFlex, .Net, PHP, JS, Python...']
+  posGraduacao = 'Mestrado em Computação - UFES,
+                  Especialização em Gestão de Projetos - Estácio';
+  stacks  = ['Desde o C até C#, Java, DataFlex, .Net, PHP, JS, Python, HTML, CSS, React, Angular'...]
 }
 ```
+
+## &nbsp; Stacks
+
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=e01f22)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![href="https://developer.android.com"](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+
+## &nbsp; Find me
 
 <p align="left">
   <a href="mailto:rafaeladenadai@gmail.com"  alt="Gmail">
