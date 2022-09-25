@@ -8,7 +8,8 @@ class SobreMim extends Desenvolvedor {
   graduacao = 'Análise e Desenvolvimento de Sistemas & Sistemas de Informação - UNESC';
   posGraduacao = 'Mestrado em Computação - UFES,
                   Especialização em Gestão de Projetos - Estácio';
-  stacks  = ['Desde o C até C#, Java, DataFlex, .Net, PHP, JS, Python, HTML, CSS, React, Angular'...]
+  stacks  = ['Desde o C até C#, Java, DataFlex, .Net, PHP, JS, 
+              Python, HTML, CSS, React, Angular'...]
 }
 ```
 
