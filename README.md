@@ -3,7 +3,7 @@ import Desenvolvedor from 'enzarafaela';
 
 class SobreMim extends Desenvolvedor {
   nome     = 'Enza Rafaela De Nadai Victal Mariano';
-  trabalho  = 'Squad Leader Atual Sistemas | Professora Faculdade Pitágoras';
+  trabalho  = 'Especialista na Trybe';
   local = 'Guarapari - ES';
   graduacao = 'Análise e Desenvolvimento de Sistemas & Sistemas de Informação - UNESC';
   posGraduacao = 'Mestrado em Computação - UFES,
