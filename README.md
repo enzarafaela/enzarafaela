@@ -2,7 +2,8 @@
 
 - 🏠 I'm currently living at Guarapari, Brazil 🇧🇷;
 - 💻 I'm currently teaching as a Web Developer Especialist;
-- 🎓 I`m Master Degree; 
+- 🎓 I'm Master Degree;
+- 😎 More than 10 years of experience as a developer;
 - ☕ I'm coffeer.
 
 
