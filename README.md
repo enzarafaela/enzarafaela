@@ -49,6 +49,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/vite-282C34?logo=vite&logoColor=FFCA28" alt="Vite logo" title="Vite" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][tech_tools_anchor]
 
 <a name="learning-next"></a>
 
@@ -56,7 +57,7 @@
 
 [<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=FFCA28" alt="Docker logo" title="Docker" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
+
 
 ## 👾  What I am interested in learning at some point
 
